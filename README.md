@@ -4,15 +4,15 @@ Aplicación web que permite registrar ubicaciones en un mapa interactivo.Al hace
 
 # Tecnologías utilizadas
 
--Backend: Spring Boot 3.5.14 (Java 21)
--Base de datos: H2 
--API: REST con 2 endpoints
--Frontend: HTML + JavaScript + Leaflet.js 
+-**Backend:** Spring Boot 3.5.14 (Java 21)
+-**Base de datos:** H2 
+-**API: REST** con 2 endpoints
+-**Frontend:** HTML + JavaScript + Leaflet.js 
 
 # Endpoints API
 
-Método GET- Endpoint (/Ubicaciones) : Retorna todas las ubicaciones.
-Método SET-Endpoint (/Ubicaciones) : Crea una nueva ubicación.
+-**Método GET- Endpoint (/Ubicaciones) :** Retorna todas las ubicaciones.
+-**Método SET-Endpoint (/Ubicaciones) :** Crea una nueva ubicación.
 
 
 # Cómo ejecutar
