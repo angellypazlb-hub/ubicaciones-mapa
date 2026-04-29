@@ -29,7 +29,7 @@ Aplicación web que permite registrar ubicaciones en un mapa interactivo.Al hace
 bash
 .\mvnw.cmd spring-boot:run
 
-4. Abrir en el navegador: 'ttp://localhost:8080'
+4. Abrir en el navegador: 'http://localhost:8080'
 
 # Funcionamiento
 
